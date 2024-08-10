@@ -16,7 +16,7 @@ This is a dynamic and interactive quiz application that tests users' knowledge o
 - **JavaScript (ES6)**: For fetching quiz data from the API, dynamically building the quiz interface, and handling user interactions.
 - **Open Trivia Database API**: For retrieving quiz questions.
 
-## How to Run
+## How to Clone
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/computer-science-quiz-app.git
+   git clone https://github.com/csesojonmia23/quiz-app.git
