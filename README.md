@@ -19,4 +19,7 @@ This is a dynamic and interactive quiz application that tests users' knowledge o
 ## How to Clone
 
 1. Clone the repository:
-   git clone https://github.com/csesojonmia23/quiz-app.git
+   git clone https://github.com/sojonmiacse/quiz-app.git
+
+### Live Demo
+https://sojonmiacse.github.io/quiz-app/
